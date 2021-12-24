@@ -1,4 +1,4 @@
 deploy:
-	sudo cp -i auto-dir.py /bin/
+	cp -i auto-dir.py /home/savaka/.local/scripts/
 
 .PHONY: deploy
